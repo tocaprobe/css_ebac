@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+}
+#sports h2 {
+    color: green;
+}
+#dolares h2{
+    color:olive;
+}
+#entretenimento h2{
+    color: pink;
+}
+
+#tecnologia h2{
+    color: blue;
+}
+
+*{
+    color: #ccc;
+}
